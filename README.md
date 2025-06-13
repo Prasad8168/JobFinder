@@ -2,7 +2,7 @@
 
 A full-stack job portal website built as a final year B.Sc. IT project. This platform connects job seekers with recruiters, allowing users to post and search for jobs based on filters.
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 ### Frontend
 - React.js
@@ -16,7 +16,7 @@ A full-stack job portal website built as a final year B.Sc. IT project. This pla
 - Cloudinary (for file storage)
 - JWT (Authentication)
 
-## 🚀 Features
+##  Features
 
 - User Signup/Login
 - Job Seeker and Recruiter Roles
@@ -26,5 +26,8 @@ A full-stack job portal website built as a final year B.Sc. IT project. This pla
 - Upload Resumes using Cloudinary
 - Responsive UI
 
-## 📂 Project Structure
+##  Project Structure
+JobFinder/
+├── frontend/     # React Frontend (UI)
+├── backend/      # Node.js Backend (APIs, DB)
 
