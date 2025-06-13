@@ -25,9 +25,3 @@ A full-stack job portal website built as a final year B.Sc. IT project. This pla
 - Bookmark Jobs
 - Upload Resumes using Cloudinary
 - Responsive UI
-
-##  Project Structure
-JobFinder/
-├── frontend/     # React Frontend (UI)
-├── backend/      # Node.js Backend (APIs, DB)
-
